@@ -10,7 +10,7 @@ done while i was learning.
 
 #### Visit My Medium Profile for Python, Machine Learning and Data Science Stories, Articles and more..
 
-✨[`MEDIUM`](https://medium.com/@gouthamgosh10)
+✨[`MEDIUM`](https://medium.com/me/stories)
 <br/>
 
 ___
