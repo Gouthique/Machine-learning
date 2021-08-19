@@ -1,8 +1,8 @@
 # 🚀MACHINE LEARNING
 
 ```
-It is seen as a part of artificial intelligence. This Repo Consists of The Machine Learning Projects that i have done 
-while i was learning. 
+It is seen as a part of artificial intelligence. This Repo Consists of The Machine Learning Projects that i have 
+done while i was learning. 
 ```
 #### Check My Dev.to Profile for Python, Machine Learning and Data Science Discussions and more..
 
